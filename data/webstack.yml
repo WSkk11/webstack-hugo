@@ -1,0 +1,1734 @@
+---
+
+- taxonomy: 常用推荐
+  icon: far fa-star
+  links:
+    - title: IT
+      logo: 百战程序员.jpg
+      url: https://www.itbaizhan.com/
+      description: 百战程序员。
+
+    - title: 开源中国
+      logo: 开源中国.jpg
+      url: https://www.oschina.net/
+      description: 中文开源技术交流社区。
+
+    - title: 公众号平台
+      logo: 微信公众号.png
+      url: https://mp.weixin.qq.com/
+      description: 再小的个体也有自己的品牌。
+
+    - title: Oracle
+      logo: oracle.png
+      url: https://www.oracle.com/
+      description: Oracle 官网。
+
+    - title: Apache
+      logo: apache.jpg
+      url: https://apache.org/
+      description: Apache 官网。
+
+    - title: Maven
+      logo: maven.png
+      url: https://mvnrepository.com/
+      description: Maven 仓库。
+
+    - title: Chat8
+      logo: chat8.jpg
+      url: https://x.chat838.com/#/770166
+      description: Chat8永久网址发布页
+
+    - title: Xclient
+      logo: xclient.jpg
+      url: https://xclient.info/
+      description: Mac应用下载
+
+    - title: Mymac
+      logo: mymac.jpg
+      url: https://mymac.top/
+      description: Mac应用下载
+
+    - title: Awesome
+      logo: awesome.jpg
+      url: http://fontawesomelib.cn/releases/5.15.4/list/alert/brands.html
+      description: font-awesome图标大全
+
+
+- taxonomy: 常用邮箱
+  icon: far fa-envelope
+  links:
+    - title: QQ 邮箱
+      logo: qq邮箱.png
+      url: http://mail.qq.com/
+      description: 腾讯 QQ 邮箱
+
+    - title: 网易邮箱
+      logo: 网易邮箱.png
+      url: https://email.163.com/
+      description: 网易邮箱
+
+
+
+- taxonomy: 常用教程
+  icon: fas fa-book
+  links:
+    - title: 菜鸟教程
+      logo: cainiao.png
+      url: https://www.runoob.com/
+
+    - title: W3school
+      logo: w3school.png
+      url: https://www.w3school.com.cn/
+      description: 领先的 Web 技术教程
+
+    - title: 语雀
+      logo: yuque.png
+      url: https://www.yuque.com/
+      description: 专业的云端知识库。
+
+
+
+- taxonomy: Git远程仓库
+  icon: fas fa-warehouse
+  links:
+    - title: GitHub
+      logo: github.png
+      url: https://github.com/
+      description: GitHub 开源社区
+
+    - title: Gitee
+      logo: gitee.png
+      url: https://gitee.com/
+      description: Gitee 开源社区
+
+
+
+- taxonomy: 常用工具
+  icon: fas fa-wrench
+  links:
+    - title: Regex
+      logo: regex.jpg
+      url: https://tool.oschina.net/regex/
+      description: 在线正则表达式测试
+
+    - title: Cron
+      logo: cron.jpg
+      url: https://cron.qqe2.com/
+      description: 在线Cron表达式生成器
+
+    - title: JSON
+      logo: json.png
+      url: https://www.sojson.com/
+      description: JSON在线解析
+
+    - title: Axios
+      logo: axios.png
+      url: https://www.kancloud.cn/yunye/axios/234845/
+      description: Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中。
+
+    - title: JWT
+      logo: jwt.png
+      url: https://jwt.io/
+      description: JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
+
+    - title: 站长工具
+      logo: ip.jpg
+      url: https://tool.chinaz.com/
+
+    - title: Swiper
+      logo: swiper.png
+      url: https://swiper.com.cn/
+      description: 触摸滑动插件
+
+    - title: 洛谷
+      logo: luogu.jpg
+      url: https://www.luogu.com.cn/
+      description: 计算机科学教育新生态
+
+    - title: Highlightcode
+      logo: highlightcode.jpg
+      url: https://highlightcode.com/
+      description: 代码高亮工具
+
+    - title: Hutool
+      logo: hutool.png
+      url: https://doc.hutool.cn
+      description: 🚀A set of tools that keep Java sweet.
+
+    - title: Notepad--
+      logo: notepad.jpg
+      url: https://gitee.com/cxasm/notepad--/releases/tag/v2.1
+      description: 文本编辑器
+
+    - title: Markdown数学公式
+      logo:
+      url: https://blog.csdn.net/wzk4869/article/details/126863936
+      description: Markdown数学公式块写法
+
+    - title: 知云翻译
+      logo: zhiyun.png
+      url: https://www.zhiyunwenxian.cn/
+      description: 自带含注释功能的PDF阅读器
+
+    - title: Kaggle
+      logo: kaggle.png
+      url: https://www.kaggle.com/datasets
+      description: Kaggle数据集
+
+
+
+- taxonomy: 内网穿透
+  icon: fas fa-globe-americas
+  links:
+    - title: NATAPP
+      logo: natapp.jpg
+      url: https://natapp.cn/
+      description: 开启您的内网穿透之旅。
+
+    - title: Ngrok
+      logo: ngrok.jpg
+      url: https://ngrok.com/
+      description: Enforce IP Restrictions
+
+
+
+- taxonomy: 开发者工具
+  icon: fas fa-tools
+  links:
+    - title: XAMPP
+      logo: xampp.jpg
+      url: https://www.apachefriends.org/index.html
+      description: XAMPP is the most popular PHP development environment
+
+    - title: 微信开发者工具
+      logo: wechatdevtool.png
+      url: https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
+      description: 微信小程序开发者工具
+
+    - title: Jetbrains
+      logo: jetbrains.jpg
+      url: https://www.jetbrains.com/
+      description: We build our software so you can enjoy building yours
+
+    - title: Jetbrains破解工具包
+      logo: jetbrains.jpg
+      url: http://145.40.71.73/ipfs/bafybeiatyghkzrrtodzt3stm652rkrjxndg4hq2ublfdmifk7plg5k5brq/
+      description: Jetbrains破解工具包
+
+    - title: Cursor
+      logo: cursor.png
+      url: https://cursor.sh
+      description: Build software faster in an editor designed for pair-programming with AI
+
+    - title: Burp Suite
+      logo: burp.png
+      url: https://blog.csdn.net/weixin_52385170/article/details/128144996
+
+    - title: HBuilder X
+      logo: hbuilderx.png
+      url: https://www.dcloud.io/hbuilderx.html
+
+    - title: Anaconda
+      logo: anaconda.png
+      url: https://www.anaconda.com/
+
+    - title: Weka
+      logo: weka.png
+      url: https://www.cs.waikato.ac.nz/ml/weka/
+
+
+
+- taxonomy: 数据库
+  icon: fas fa-database
+  list:
+    - term: 关系型数据库
+      links:
+        - title: MySQL
+          logo: mysql.jpg
+          url: https://dev.mysql.com/
+
+    - term: 非关系型数据库
+      links:
+        - title: Redis
+          logo: redis.jpg
+          url: https://redis.io/
+
+        - title: Redisson
+          logo: redisson.jpg
+          url: https://redisson.org
+
+        - title: MongoDB
+          logo: mongodb.jpg
+          url: https://www.mongodb.com/zh-cn
+
+        - title: Elasticsearch
+          logo: elasticsearch.jpg
+          url: https://www.elastic.co/cn/
+
+
+- taxonomy: 前端开发
+  icon: fas fa-atom
+  list:
+    - term: H5,CSS3框架
+      links:
+        - title: Bootstrap
+          logo: bootstrap.png
+          url: https://v3.bootcss.com/
+          description: 用于开发响应式布局、移动设备优先的 WEB 项目。
+
+        - title: H-ui
+          logo: hui.jpg
+          url: http://www.h-ui.net/v4/4.25-datetimepicker.shtml
+          description: H-ui前端框架系统是基于 HTML、CSS、JAVASCRIPT开发的轻量级web前端框架。
+
+
+
+    - term: JavaScript框架
+      links:
+        - title: Vue2
+          logo: vue.png
+          url: https://v2.cn.vuejs.org/
+          description: 渐进式JavaScript 框架。
+
+        - title: Vue3
+          logo: vue.png
+          url: https://cn.vuejs.org/
+          description: 渐进式JavaScript 框架。
+
+        - title: React
+          logo: react.jpg
+          url: https://zh-hans.react.dev/
+          description: 用于构建 Web 和原生交互界面的库。
+
+        - title: Ant Design
+          logo: ant-design-react.png
+          url: https://ant-design.antgroup.com/index-cn
+          description: 助力设计开发者「更灵活」地搭建出「更美」的产品，让用户「快乐工作」～
+
+        - title: Ant Design Pro
+          logo: ant-design-react.png
+          url: https://pro.ant.design/zh-CN/
+          description: 开箱即用的中台前端/设计解决方案
+
+        - title: Pure Admin
+          logo: vue-pure-admin.png
+          url: https://github.com/pure-admin/vue-pure-admin
+          description: 开源免费且开箱即用的中后台管理系统模版
+
+        - title: RuoYi
+          logo: ruoyi.png
+          url: http://120.79.202.7/
+          description: 基于SpringBoot的权限管理系统
+
+
+
+    - term: UI组件库
+      links:
+        - title: Vant
+          logo: vant.jpg
+          url: https://youzan.github.io/vant-weapp/
+          description: 轻量、可靠的小程序 UI 组件库。
+
+        - title: Elemenet
+          logo: elementplus.jpg
+          url: https://element.eleme.cn/#/zh-CN
+          description: Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库
+
+        - title: Elemenet Plus
+          logo: elementplus.jpg
+          url: https://element-plus.gitee.io/zh-CN/
+          description: 基于 Vue 3，面向设计师和开发者的组件库。
+
+        - title: Ant Design Vue
+          logo: ant-design-vue.png
+          url: https://www.antdv.com/components/overview-cn
+          description: ant-design-vue 为 Web 应用提供了丰富的基础 UI 组件，我们还将持续探索企业级应用的最佳 UI 实践
+
+        - title: Ant Design React
+          logo: ant-design-react.png
+          url: https://ant-design.antgroup.com/docs/react/introduce-cn
+          description: antd 是基于 Ant Design 设计体系的 React UI 组件库，主要用于研发企业级中后台产品。
+
+
+
+    - term: 富文本编辑器
+      links:
+        - title: WangEditor
+          logo: wangeditor.jpg
+          url: https://www.wangeditor.com/
+          description: 开源 Web 富文本编辑器，开箱即用，配置简单。
+
+    - term: 数据可视化
+      links:
+        - title: Echarts
+          logo: echarts.jpg
+          url: https://echarts.apache.org/zh/index.html
+          description: 一个基于 JavaScript 的开源可视化图表库。
+
+        - title: Hcharts
+          logo: hcharts.png
+          url: https://www.hcharts.cn/
+          description: 完美支持移动端、图表类型丰富、方便快捷的 HTML5 交互性图表库。
+
+    - term: 微信小程序开发
+      links:
+        - title: 微信小程序
+          logo: wechatdevtool.png
+          url: https://mp.weixin.qq.com/cgi-bin/wx?token=&lang=zh_CN
+
+
+
+- taxonomy: 后端开发
+  icon: fas fa-server
+  list:
+    - term: ORM框架
+      links:
+        - title: MyBatis-Plus
+          logo: mybatisplus.svg
+          url: https://baomidou.com/
+          description: 🚀为简化开发而生。
+
+    - term: Spring框架
+      links:
+        - title: Spring
+          logo: spring.jpg
+          url: https://spring.io/
+          description: Spring makes Java simple.modern.productive.reactive.cloud-read
+
+    - term: 版本控制系统
+      links:
+        - title: Git
+          logo: git.png
+          url: https://git-scm.com/
+
+    - term: 服务器
+      links:
+        - title: Tomcat
+          logo: tomcat.png
+          url: https://tomcat.apache.org/
+
+        - title: Nginx
+          logo: nginx.jpg
+          url: http://nginx.org/
+
+    - term: 接口文档生成
+      links:
+        - title: Swagger
+          logo: swagger.png
+          url: https://swagger.io/
+          description: API Development for Everyone .
+
+        - title: Swagger文档
+          logo: swagger.png
+          url: https://github.com/swagger-api/swagger-core/wiki/Annotations
+          description: API Development for Everyone .
+
+    - term: 其他技术
+      links:
+        - title: Lombok
+          logo: lombok.png
+          url: https://projectlombok.org/
+          description: Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java.
+
+
+
+- taxonomy: 服务器部署
+  icon: fas fa-cloud-upload-alt
+  list:
+    - term: 虚拟机安装
+      links:
+        - title: VMWareWorkstation
+          logo: vmware.png
+          url: https://www.vmware.com/
+          description: Move Fast and Be Free in a Multi-Cloud World​
+
+        - title: VMWareFusion
+          logo: vmware.png
+          url: https://www.vmware.com/products/fusion/fusion-evaluation.html
+          description: Move Fast and Be Free in a Multi-Cloud World​
+
+        - title: Centos
+          logo: centos.jpg
+          url: https://www.centos.org/
+          description: Community-driven free software effort focused around the goal of providing a rich base platform for open source communities to build upon.
+
+    - term: 消息队列
+      links:
+        - title: RabbitMQ
+          logo: rabbitmq.jpg
+          url: https://www.rabbitmq.com/
+          description: RabbitMQ is the most widely deployed open source message broker.
+
+        - title: RocketMQ
+          logo: rocketmq.png
+          url: https://rocketmq.apache.org/
+          description: RocketMQ 5.0 A cloud-native "messaging, eventing, streaming" real-time data processing platform, covering cloud-edge-device collaboration scenarios
+
+    - term: 分布式调用
+      links:
+        - title: Zookeeper
+          logo: apache.jpg
+          url: https://zookeeper.apache.org/
+          description: Apache ZooKeeper is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
+
+        - title: Dubbo
+          logo: dubbo.jpg
+          url: https://cn.dubbo.apache.org/zh-cn/
+          description: 为构建企业级微服务提供框架、通信、服务治理能力。
+
+    - term: 分布式文件存储
+      links:
+        - title: FastDFS
+          logo: gitee.jpg
+          url: https://gitee.com/fastdfs100/fastdfs
+
+    - term: 分库分表
+      links:
+        - title: Mycat
+          logo: mycat.png
+          url: http://www.mycat.org.cn/
+
+        - title: ShardingSphere
+          logo: shardingsphere.png
+          url: https://shardingsphere.apache.org/index_zh.html
+
+
+
+- taxonomy: 支付API
+  icon: fab fa-amazon-pay
+  list:
+    - term: 微信支付
+      links:
+        - title: 微信支付
+          logo: wechat.jpg
+          url: https://pay.weixin.qq.com/
+
+    - term: 支付宝支付
+      links:
+        - title: 支付宝支付
+          logo: alipay.jpg
+          url: https://open.alipay.com/
+
+
+
+- taxonomy: 高性能Web平台开发
+  icon: fas fa-drumstick-bite
+  links:
+    - title: Lua
+      logo: lua.jpg
+      url: https://www.lua.org/
+
+    - title: Openresty
+      logo: openresty.jpg
+      url: http://openresty.org/cn/
+
+
+
+- taxonomy: 容器管理
+  icon: fas fa-flask
+  links:
+    - title: Docker
+      logo: docker.jpg
+      url: https://www.docker.com/products/docker-desktop/
+
+    - title: Kubernetes
+      logo: kubernetes.jpg
+      url: https://kubernetes.io/zh-cn/
+
+
+
+- taxonomy: 持续交付与集成
+  icon: far fa-star
+  links:
+    - title: Jenkins
+      logo: jenkins.jpg
+      url: https://www.jenkins.io/
+
+
+
+- taxonomy: SpringCloud组件
+  icon: far fa-star
+  links:
+    - title: Eureka
+      logo: eureka.png
+      url: https://www.eurekanetwork.org/
+      description: We are the world’s biggest public network for international cooperation in R&D and innovation, present in over 45 countries.
+
+    - title: Resilience4j
+      logo: resilience4j.jpg
+      url: https://resilience4j.readme.io/
+
+    - title: Prometheus
+      logo: prometheus.jpg
+      url: https://prometheus.io/
+
+
+- taxonomy: SpringCloudAlibaba组件
+  icon: far fa-star
+  links:
+    - title: Nacos
+      logo: nacos.jpg
+      url: https://nacos.io/zh-cn/
+      description: 一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台。
+
+    - title: Sentinel
+      logo: sentinel.jpg
+      url: https://gitee.com/rmlb/Sentinel
+
+    - title: Seata
+      logo: seata.jpg
+      url: http://seata.io/zh-cn/
+
+
+
+- taxonomy: 科研办公
+  icon: fas fa-flask fa-lg
+  list:
+    - term: 生物信息
+      links:
+        - title: NCBI
+          logo: ncbi.jpg
+          url: https://www.ncbi.nlm.nih.gov/
+          description: National Center for Biotechnology Information.
+
+        - title: Bioconda
+          logo: bioconda.jpg
+          url: https://anaconda.org/bioconda/
+          description: "Bioconda :: Anaconda.org."
+
+        - title: CPAN
+          logo: cpan.jpg
+          url: https://metacpan.org/
+          description: Search the CPAN.
+
+        - title: Gitter Galaxy
+          logo: gitter.jpg
+          url: https://gitter.im/galaxyproject
+          description: Galaxy Gitter Community.
+
+        - title: R Project
+          logo: r-project.jpg
+          url: https://www.r-project.org/
+          description: https://www.r-project.org
+
+        - title: Bioconductor
+          logo: bioconductor.jpg
+          url: http://www.bioconductor.org/
+          description: http://www.bioconductor.org
+
+    - term: 云服务器
+      links:
+        - title: 阿里云
+          logo: 阿里云.jpg
+          url: https://www.aliyun.com/
+          description: 上云就上阿里云。
+
+        - title: 腾讯云
+          logo: 腾讯云.jpg
+          url: https://cloud.tencent.com/
+          description: 产业智变，云启未来。
+
+        - title: 华为云
+          logo: 华为云.png
+          url: https://www.huaweicloud.com/
+          description: 提供云计算服务+智能，见未来-华为云。
+
+        - title: 云筏科技
+          logo: ''
+          url: https://my.cloudraft.cn/
+          description: 云筏 - 科研云。
+
+        - title: 极云普惠云电脑
+          logo: 极云普惠云电脑.png
+          url: https://www.ji-cloud.cn/
+          description: 云电脑-云游戏-手机变电脑软件。
+
+        - title: 青椒云
+          logo: 青椒云.jpg
+          url: https://www.qingjiaocloud.com/
+          description: 云桌面,一站式云电脑服务平台。
+
+        - title: UCloud
+          logo: ucloud.jpg
+          url: https://www.ucloud.cn/
+
+    - term: 办公学习
+      links:
+        - title: 有道词典
+          logo: 有道词典.png
+          url: https://www.youdao.com/
+          description: 免费，即时的多语种在线翻译。
+
+        - title: 有道翻译
+          logo: 有道词典.png
+          url: http://fanyi.youdao.com/
+          description: 有道翻译。
+
+        - title: 谷歌翻译
+          logo: 谷歌翻译.jpg
+          url: https://translate.google.cn/
+          description: 谷歌翻译。
+
+        - title: ProcessOn
+          logo: ProcessOn.png
+          url: https://www.processon.com/
+          description: 免费在线作图、实时协作。
+
+
+
+- taxonomy: 悠闲娱乐
+  icon: fas fa-film fa-lg
+  list:
+    - term: 影音视频
+      links:
+        - title: 腾讯视频
+          logo: 腾讯视频.png
+          url: http://v.qq.com/
+          description: 腾讯视频，海量视频在线观看。
+
+        - title: 优酷
+          logo: 优酷.png
+          url: http://www.youku.com/
+          description: 优酷 - 这个世界很酷。
+
+        - title: 爱奇艺
+          logo: 爱奇艺.png
+          url: https://www.iqiyi.com/
+          description: 爱奇艺在线视频。
+
+        - title: 哔哩哔哩
+          logo: 哔哩哔哩.png
+          url: https://www.bilibili.com/
+          description: Bilibili 视频弹幕网站。
+
+        - title: QQ 音乐
+          logo: QQ音乐.jpg
+          url: https://y.qq.com/
+          description: QQ 音乐，在线听歌。
+
+        - title: 网易云音乐
+          logo: 网易云音乐.jpg
+          url: https://music.163.com/
+          description: 163 网易云音乐。
+
+        - title: 电影天堂（DYTT8）
+          logo: 电影天堂.png
+          url: https://www.dytt8.net/index.htm
+          description: 电影天堂（DYTT8），高清电影下载。
+
+        - title: 电影天堂（DYGOD）
+          logo: 电影天堂.png
+          url: https://www.dygod.net/
+          description: 电影天堂（DYGOD），高清电影下载。
+
+    - term: 游戏竞技
+      links:
+        - title: 百度贴吧
+          logo: 百度贴吧.jpg
+          url: ttps://tieba.baidu.com/index.html
+          description: 百度贴吧。
+
+        - title: 台服战地
+          logo: 战地之王.png
+          url: https://ava.mangot5.com/ava/index
+          description: 台服 AVA 战地之王。
+
+
+
+- taxonomy: 素材资源
+  icon: far fa-folder-open fa-lg
+  list:
+    - term: 网盘资源
+      links:
+        - title: 百度网盘
+          logo: 百度网盘.jpg
+          url: http://pan.baidu.com/
+          description: https://pan.baidu.com/.
+
+        - title: 阿里云盘
+          logo: 阿里云盘.png
+          url: https://www.aliyundrive.com/
+          description: 阿里云盘，你的数字世界。
+
+        - title: 天翼云盘
+          logo: 天翼云盘.jpg
+          url: https://cloud.189.cn/
+          description: 家庭云|网盘|文件备份|资源分享。
+
+        - title: 坚果云
+          logo: 坚果云.png
+          usrl: https://www.jianguoyun.com/
+          description: 坚果云官网。
+
+    - term: 图标素材
+      links:
+        - title: Iconfinder
+          logo: Iconfinder.png
+          url: https://www.iconfinder.com
+          description: 2,100,000+ free and premium vector icons.
+
+        - title: iconfont
+          logo: iconfont.png
+          url: http://www.iconfont.cn/
+          description: 阿里巴巴矢量图标库。
+
+        - title: iconmonstr
+          logo: iconmonstr.png
+          url: https://iconmonstr.com/
+          description: Free simple icons for your next project.
+
+        - title: Icon Archive
+          logo: iconarchive.png
+          url: http://www.iconarchive.com/
+          description: Search 590,912 free icons.
+
+        - title: FindIcons
+          logo: FindIcons.png
+          url: https://findicons.com/
+          description: Search through 300,000 free icons.
+
+        - title: IcoMoonApp
+          logo: IcoMoonApp.png
+          url: https://icomoon.io/app/
+          description: Icon Font, SVG, PDF &amp; PNG Generator.
+
+        - title: easyicon
+          logo: easyicon.png
+          url: http://www.easyicon.net/
+          description: PNG、ICO、ICNS格式图标搜索、图标下载服务。
+
+        - title: flaticon
+          logo: flaticon.png
+          url: https://www.flaticon.com/
+          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
+
+        - title: UICloud
+          logo: UICloud.png
+          url: http://ui-cloud.com/
+          description: The largest user interface design database in the world.
+
+        - title: Material icons
+          logo: Materialicons.png
+          url: https://material.io/icons/
+          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
+
+        - title: Font Awesome Icon
+          logo: fontawesomeicon.png
+          url: https://fontawesome.com/icons/
+          description: The complete set of 675 icons in Font Awesome.
+
+        - title: ion icons
+          logo: ionicons.png
+          url: http://ionicons.com/
+          description: The premium icon font for Ionic Framework.
+
+        - title: Simpleline Icons
+          logo: simplelineicons.png
+          url: http://simplelineicons.com/
+          description: Simple line Icons pack.
+
+    - term: 图标设计
+      links:
+        - title: Iconsfeed
+          logo: iconsfeed.png
+          url: http://www.iconsfeed.com/
+          description: iOS icons gallery.
+
+        - title: iOS Icon Gallery
+          logo: iosicongallery.png
+          url: http://iosicongallery.com/
+          description: Showcasing beautiful icon designs from the iOS App Store.
+
+        - title: World Vector Logo
+          logo: worldvectorlogo.png
+          url: https://worldvectorlogo.com/
+          description: Brand logos free to download.
+
+        - title: Instant Logo Search
+          logo: InstantLogoSearch.png
+          url: http://instantlogosearch.com/
+          description: Search & download thousands of logos instantly.
+
+    - term: 平面素材
+      links:
+        - title: freepik
+          logo: freepik.png
+          url: https://www.freepik.com/
+          description: More than a million free vectors, PSD, photos and free icons.
+
+        - title: wallhalla
+          logo: wallhalla.png
+          url: https://wallhalla.com/
+          description: Find awesome high quality wallpapers for desktop and mobile in one place.
+
+        - title: 365PSD
+          logo: 365PSD.png
+          url: https://365psd.com/
+          description: Free PSD &amp; Graphics, Illustrations.
+
+        - title: Medialoot
+          logo: Medialoot.png
+          url: https://medialoot.com/
+          description: Free &amp; Premium Design Resources &mdash; Medialoot.
+
+        - title: 千图网
+          logo: qiantu.png
+          url: http://www.58pic.com/
+          description: 专注免费设计素材下载的网站.
+
+        - title: 千库网
+          logo: qianku.png
+          url: http://588ku.com/
+          description: 免费 png 图片背景素材下载。
+
+        - title: 我图网
+          logo: wotu.png
+          url: http://www.ooopic.com/
+          description: 我图网，提供图片素材及模板下载，专注正版设计作品交易。
+
+        - title: 90 设计
+          logo: 90sheji.png
+          url: http://90sheji.com/
+          description: 电商设计（淘宝美工）千图免费淘宝素材库。
+
+        - title: 昵图网
+          logo: nipic.png
+          url: http://www.nipic.com/
+          description: 原创素材共享平台。
+
+        - title: 懒人图库
+          logo: lanrentuku.png
+          url: http://www.lanrentuku.com/
+          description: 懒人图库专注于提供网页素材下载。
+
+        - title: 素材搜索
+          logo: sousucai.png
+          url: http://so.ui001.com/
+          description: 设计素材搜索聚合。
+
+        - title: PS 饭团网
+          logo: psefan.png
+          url: http://psefan.com/
+          description: 不一样的设计素材库！让自己的设计与众不同！
+
+        - title: 素材中国
+          logo: sccnn.png
+          url: http://www.sccnn.com/
+          description: 免费素材共享平台。
+
+    - term: 字体资源
+      links:
+        - title: Google Font
+          url: https://fonts.google.com/
+          logo: googlefont.png
+          description: Making the web more beautiful, fast, and open through great typography.
+
+        - title: Typekit
+          url: https://typekit.com/
+          logo: typekit.png
+          description: Quality fonts from the world’s best foundries.
+
+        - title: 方正字库
+          url: http://www.foundertype.com/
+          logo: Fondertype.png
+          description: 方正字库官方网站。
+
+        - title: 字体传奇网
+          url: http://ziticq.com/
+          logo: ziticq.png
+          description: 中国首个字体品牌设计师交流网。
+
+        - title: 私藏字体
+          url: http://sicangziti.com/
+          logo: sicangziti.png
+          description: 优质字体免费下载站。
+
+        - title: Fontsquirrel
+          url: https://www.fontsquirrel.com/
+          logo: fontsquirrel.png
+          description: FREE fonts for graphic designers.
+
+        - title: Urban Fonts
+          url: https://www.urbanfonts.com/
+          logo: UrbanFonts.png
+          description: Download Free Fonts and Free Dingbats.
+
+        - title: Lost Type
+          url: http://www.losttype.com/
+          logo: losttype.png
+          description: Lost Type is a Collaborative Digital Type Foundry.
+
+        - title: FONTS2U
+          url: https://fonts2u.com/
+          logo: fonts2u.png
+          description: Download free fonts for Windows and Macintosh.
+
+        - title: Fontex
+          url: http://www.fontex.org/
+          logo: fontex.png
+          description: Free Fonts to Download + Premium Typefaces.
+
+        - title: FontM
+          url: http://fontm.com/
+          logo: FontM.png
+          description: Free Fonts
+
+        - title: My Fonts
+          url: http://www.myfonts.com/
+          logo: MyFonts.png
+          description: Fonts for Print, Products & Screens.
+
+        - title: Da Font
+          url: https://www.dafont.com/
+          logo: dafont.png
+          description: Archive of freely downloadable fonts.
+
+        - title: OnlineWebFonts
+          url: https://www.onlinewebfonts.com/
+          logo: OnlineWebFonts.png
+          description: WEB Free Fonts for Windows and Mac / Font free Download.
+
+        - title: Abstract Fonts
+          url: http://www.abstractfonts.com/
+          logo: abstractfonts.png
+          description: Abstract Fonts (13,866 free fonts).
+
+    - term: PPT资源
+      links:
+        - title: OfficePLUS
+          url: http://www.officeplus.cn/Template/Home.shtml
+          logo: officeplus.png
+          description: OfficePLUS，微软Office官方在线模板网站！
+
+        - title: 优品PPT
+          url: http://www.ypppt.com/
+          logo: ypppt.png
+          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源。
+
+        - title: PPT+
+          url: http://www.pptplus.cn/
+          logo: pptplus.png
+          description: PPT加直播、录制和分享—PPT+语音内容分享平台。
+
+        - title: PPTMind
+          url: http://www.pptmind.com/
+          logo: pptmind.png
+          description: 分享高端 ppt 模板与 keynote 模板的数字作品交易平台。
+
+        - title: tretars
+          url: http://www.tretars.com/ppt-templates
+          logo: tretars.png
+          description: The best free Mockups from the Web.
+
+        - title: 5百丁
+          url: http://ppt.500d.me/
+          logo: 500d.png
+          description: 中国领先的PPT模板共享平台。
+
+
+
+- taxonomy: 开发设计
+  icon: fas fa-tools fa-lg
+  list:
+    - term: 图形创意
+      links:
+        - title: photoshop
+          url: https://www.adobe.com/cn/products/photoshop.html
+          logo: photoshop.png
+          description: Photoshop不需要解释
+
+        - title: Affinity Designer
+          url: https://affinity.serif.com/
+          logo: AffinityDesigner.png
+          description: 专业创意软件
+
+        - title: Illustrator
+          url: https://www.adobe.com/cn/products/illustrator/
+          logo: Illustrator.png
+          description: 矢量图形和插图。
+
+        - title: indesign
+          url: http://www.adobe.com/cn/products/indesign.html
+          logo: INDESIGN .png
+          description: 页面设计、布局和出版。
+
+        - title: cinema-4d
+          url: https://www.maxon.net/en/products/cinema-4d/overview/
+          logo: cinema4d.png
+          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
+
+        - title: 3ds-max
+          url: https://www.autodesk.com/products/3ds-max/overview
+          logo: 3dsmax.png
+          description: 3D modeling, animation, and rendering software
+
+        - title: Blender
+          url: https://www.blender.org/
+          logo: blender.png
+          description: Blender is the free and open source 3D creation suite.
+
+    - term: 界面设计
+      links:
+        - title: Sketch
+          url: https://sketchapp.com/
+          logo: sketchapp.png
+          description: The digital design toolkit
+
+        - title: Adobe XD
+          url: http://www.adobe.com/products/xd.html
+          logo: ADOBEXDCC.png
+          description: Introducing Adobe XD. Design. Prototype. Experience.
+
+        - title: invisionapp
+          url: https://www.invisionapp.com/
+          logo: invisionapp.png
+          description: Powerful design prototyping tools
+
+        - title: marvelapp
+          url: https://marvelapp.com/
+          logo: marvelapp.png
+          description: Simple design, prototyping and collaboration
+
+        - title: Muse CC
+          url: https://creative.adobe.com/zh-cn/products/download/muse
+          logo: MuseCC.png
+          description: 无需利用编码即可进行网站设计。
+
+        - title: figma
+          url: https://www.figma.com/
+          logo: figma.png
+          description: Design, prototype, and gather feedback all in one place with Figma.
+
+    - term: 在线配色
+      links:
+        - title: khroma
+          url: http://khroma.co/generator/
+          logo: khroma.png
+          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
+
+        - title: uigradients
+          url: https://uigradients.com
+          logo: uigradients.png
+          description: Beautiful colored gradients.
+
+        - title: gradients
+          url: http://gradients.io/
+          logo: gradients.png
+          description: Curated gradients for designers and developers.
+
+        - title: Coolest
+          url: https://webkul.github.io/coolhue/
+          logo: Coolest.png
+          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
+
+        - title: webgradients
+          url: https://webgradients.com/
+          logo: webgradients.png
+          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
+
+        - title: grabient
+          url: https://www.grabient.com/
+          logo: grabient.png
+          description: 2017 Grabient by unfold.
+
+        - title: thedayscolor
+          url: http://www.thedayscolor.com/
+          logo: thedayscolor.png
+          description: The daily color digest
+
+        - title: flatuicolors
+          url: http://flatuicolors.com/
+          logo: flatuicolors.png
+          description: Copy Paste Color Pallette from Flat UI Theme.
+
+        - title: coolors
+          url: https://coolors.co/
+          logo: coolors.png
+          description: The super fast color schemes generator!
+
+        - title: colorhunt
+          url: http://www.colorhunt.co/
+          logo: colorhunt.png
+          description: Beautiful Color Palettes.
+
+        - title: Adobe Color CC
+          url: https://color.adobe.com/zh/create/color-wheel
+          logo: AdobeColorCC.png
+          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
+
+        - title: flatuicolorpicker
+          url: http://www.flatuicolorpicker.com/
+          logo: flatuicolorpicker.png
+          description: Best Flat Colors For UI Design.
+
+        - title: trianglify
+          url: http://qrohlf.com/trianglify-generator/
+          logo: trianglify.png
+          description: Trianglify Generator.
+
+        - title: klart
+          url: https://klart.co/colors/
+          logo: klart.png
+          description: Beautiful colors and designs to your inbox every week.
+
+        - title: vanschneider
+          url: http://www.vanschneider.com/colors
+          logo: vanschneider.png
+          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
+
+    - term: 在线工具
+      links:
+        - title: tinypng
+          url: https://tinypng.com/
+          logo: tinypng.png
+          description: Optimize your images with a perfect balance in quality and file size.
+
+        - title: goqr
+          url: http://goqr.me/
+          logo: goqr.png
+          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
+
+        - title: ezgif
+          url: https://ezgif.com
+          logo: ezgif.png
+          description: simple online GIF maker and toolset for basic animated GIF editing.
+
+        - title: Android 9 patch
+          url: http://inloop.github.io/shadow4android/
+          logo: Android9patch.png
+          description: Android 9-patch shadow generator fully customizable shadows.
+
+        - title: screen sizes
+          url: http://screensiz.es/
+          logo: screensizes.png
+          description: Viewport Sizes and Pixel Densities for Popular Devices.
+
+        - title: svgomg
+          url: https://jakearchibald.github.io/svgomg/
+          logo: svgomg.png
+          description: SVG 在线压缩平台。
+
+        - title: 稿定抠图
+          url: https://www.gaoding.com
+          logo: gaoding.png
+          description: 免费在线抠图软件,图片快速换背景-抠白底图。
+
+        - title: 即时设计
+          logo: jishi.jpg
+          url: https://js.design/
+          description: 可云端编辑的专业级UI设计工具，为中国设计师量身打造 Windows也能用的[协作版 Sketch]
+
+    - term: 谷歌插件
+      links:
+        - title: CrxDL
+          url: https://crxdl.com/
+          logo: crxdl.jpg
+          description: 下载Chrome扩展插件Crx离线安装包
+
+        - title: wappalyzer
+          url: https://www.wappalyzer.com/
+          logo: wappalyzer.png
+          description: Identify technology on websites.
+
+        - title: Panda
+          url: http://usepanda.com/
+          logo: usepanda.png
+          description: A smart news reader built for productivity.
+
+        - title: sizzy
+          url: https://sizzy.co/
+          logo: sizzy.png
+          description: A tool for developing responsive websites crazy-fast.
+
+        - title: csspeeper
+          url: https://csspeeper.com/
+          logo: csspeeper.png
+          description: Smart CSS viewer tailored for Designers.
+
+        - title: insight
+          url: http://insight.io/
+          logo: insight.png
+          description: IDE-like code search and navigation, on the cloud.
+
+        - title: mustsee
+          url: http://mustsee.earth/
+          logo: mustsee.png
+          description: Discover the world's most beautiful places at every opened tab.
+
+
+
+- taxonomy: 资讯学习
+  icon: fas fa-pencil-alt fa-lg
+  list:
+    - term: 资讯书籍
+      links:
+        - title: 微信读书
+          url: https://weread.qq.com/
+          logo: 微信读书.jpg
+          description: 微信读书电脑版。
+
+        - title: 书栈网
+          url: https://www.bookstack.cn/
+          logo: 书栈网.jpg
+          description: IT 互联网开源编程书籍免费阅读与下载。
+
+    - term: 博客论坛
+      links:
+        - title: WordPress
+          url: https://cn.wordpress.org/
+          logo: wordpress.png
+          description: 创建免费网站或博客的最方便的方式
+
+        - title: Inoreader
+          url: https://www.inoreader.com/
+          logo: inoreader.jpg
+          description: 重新掌控你的新闻订阅源。
+
+        - title: Hacker News
+          url: https://news.ycombinator.com/
+          logo: hacker-news.jpg
+          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
+
+        - title: 经管之家
+          url: https://bbs.pinggu.org/
+          logo: 经管之家.jpg
+          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
+
+        - title: 阮一峰的网络日志
+          url: http://www.ruanyifeng.com/blog/
+          logo: 阮一峰.png
+          description: 阮一峰，科技爱好者周刊。
+
+        - title: 酷壳
+          url: https://www.coolshell.cn/
+          logo: ''
+          description: 酷 壳 – CoolShell。
+
+    - term: 设计规范
+      links:
+        - title: Design Guidelines
+          url: http://designguidelines.co/
+          logo: designguidelines.png
+          description: Design Guidelines &mdash; The way products are built.
+
+        - title: Awesome design systems
+          url: https://github.com/alexpate/awesome-design-systems
+          logo: awesome_design_systems.png
+          description:  A collection of awesome design systems.
+
+        - title: Material Design
+          url: https://material.io/guidelines/
+          logo: Material_Design.png
+          description: Introduction - Material Design.
+
+        - title: Human Interface Guidelines
+          url: https://developer.apple.com/ios/human-interface-guidelines
+          logo: human_interface_guidelines.png
+          description: Human Interface Guidelines iOS.
+
+        - title: Photoshop Etiquette
+          url: http://viggoz.com/photoshopetiquette/
+          logo: photoshopetiquette.png
+          description: PS礼仪-WEB设计指南。
+
+    - term: 视频教程
+      links:
+        - title: Photoshop Lady
+          url: http://www.photoshoplady.com/
+          logo: PhotoshopLady.png
+          description: Your Favourite Photoshop Tutorials in One Place.
+
+        - title: doyoudo
+          url: http://doyoudo.com/
+          logo: doyoudo.png
+          description: 创意设计软件学习平台。
+
+        - title: 没位道
+          url: http://www.c945.com/web-ui-tutorial/
+          logo: web_ui_tutorial.png
+          description: WEB UI免费视频公开课。
+
+        - title: 慕课网
+          url: https://www.imooc.com/
+          logo: imooc.png
+          description: 程序员的梦工厂（有UI课程）。
+
+
+
+- taxonomy: 面试题
+  icon: far fa-address-card
+  links:
+    - title: Java基础知识
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/01 Java基础知识面试题/_book/index.html
+
+    - title: Java集合容器
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/02 Java集合容器面试题-重点/_book/index.html
+
+    - title: Java异常
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/03 Java异常面试题/_book/index.html
+
+    - title: 并发编程
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/04 并发编程面试题-重点/_book/index.html
+
+    - title: SpringMVC
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/05 Spring MVC面试题/_book/index.html
+
+    - title: Spring
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/06 Spring面试题-重点/_book/index.html
+
+    - title: MyBatis
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/07 MyBatis面试题/_book/index.html
+
+    - title: JVM
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/08 Java虚拟机(JVM)面试题-重点/_book/index.html
+
+    - title: MySQL
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/09 MySQL数据库面试题-重点/_book/index.html
+
+    - title: Tomcat
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/10 Tomcat面试题/_book/index.html
+
+    - title: Linux
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/11 Linux操作系统面试题/_book/index.html
+
+    - title: Redis
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/12 Redis面试题-重点/_book/index.html
+
+    - title: Zookeeper
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/13 ZooKeeper面试题-重点/_book/index.html
+
+    - title: Dubbo
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/14 Dubbo面试题/_book/index.html
+
+    - title: MQ
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/15 消息中间件MQ面试题/_book/index.html
+
+    - title: Netty
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/16 Netty面试题/_book/index.html
+
+    - title: SpringBoot
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/17 Spring Boot面试题-重点/_book/index.html
+
+    - title: SpringCloud
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/18 Spring Cloud面试题/_book/index.html
+
+    - title: 分布式
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/19 分布式面试必会/_book/index.html
+
+    - title: 计算机网络
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/20 计算机网络面试题/_book/index.html
+
+    - title: 数据结构与算法
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/21 数据结构与算法面试题-重点/_book/index.html
+
+    - title: 23种设计模式
+      logo: regex.jpg
+      url: http://localhost:8080/面试题/22 23种设计模式总结/_book/index.html
+
+
+
+- taxonomy: SQL注入靶场环境
+  icon: far fa-address-card
+  links:
+    - title: Less-1
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-1/index.php
+      description: 字符型注入 ' 闭合 有回显位 Union注入
+
+    - title: Less-2
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-2/index.php
+      description: 数字型 有回显位 Union注入
+
+    - title: Less-3
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-3/index.php
+      description: 字符型 ') 闭合 有回显位 Union注入
+
+    - title: Less-4
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-4/index.php
+      description: 字符型 ") 闭合 有回显位 Union注入
+
+    - title: Less-5
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-5/index.php
+      description: 字符型 ' 闭合 没有回显位 报错注入
+
+    - title: Less-6
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-6/index.php
+      description: 字符型 " 闭合 没有回显位 报错注入
+
+    - title: Less-7
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-7/index.php
+
+    - title: Less-8
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-8/index.php
+
+    - title: Less-9
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-9/index.php
+
+    - title: Less-10
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-10/index.php
+
+    - title: Less-11
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-11/index.php
+
+    - title: Less-12
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-12/index.php
+
+    - title: Less-13
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-13/index.php
+
+    - title: Less-14
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-14/index.php
+
+    - title: Less-15
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-15/index.php
+
+    - title: Less-16
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-16/index.php
+
+    - title: Less-17
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-17/index.php
+
+    - title: Less-18
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-18/index.php
+
+    - title: Less-19
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-19/index.php
+
+    - title: Less-20
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-20/index.php
+
+    - title: Less-21
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-21/index.php
+
+    - title: Less-22
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-22/index.php
+
+    - title: Less-23
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-23/index.php
+
+    - title: Less-24
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-24/index.php
+
+    - title: Less-25
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-25/index.php
+
+    - title: Less-25a
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-25a/index.php
+
+    - title: Less-26
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-26/index.php
+
+    - title: Less-26a
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-26a/index.php
+
+    - title: Less-27
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-27/index.php
+
+    - title: Less-27a
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-27a/index.php
+
+    - title: Less-28
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-28/index.php
+
+    - title: Less-28a
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-28a/index.php
+
+    - title: Less-29
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-29/index.php
+
+    - title: Less-30
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-30/index.php
+
+    - title: Less-31
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-31/index.php
+
+    - title: Less-32
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-32/index.php
+
+    - title: Less-33
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-33/index.php
+
+    - title: Less-34
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-34/index.php
+
+    - title: Less-35
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-35/index.php
+
+    - title: Less-36
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-36/index.php
+
+    - title: Less-37
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-37/index.php
+
+    - title: Less-38
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-38/index.php
+
+    - title: Less-39
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-39/index.php
+
+    - title: Less-40
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-40/index.php
+
+    - title: Less-41
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-41/index.php
+
+    - title: Less-42
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-42/index.php
+
+    - title: Less-43
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-43/index.php
+
+    - title: Less-44
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-44/index.php
+
+    - title: Less-45
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-45/index.php
+
+    - title: Less-46
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-46/index.php
+
+    - title: Less-47
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-47/index.php
+
+    - title: Less-48
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-48/index.php
+
+    - title: Less-49
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-49/index.php
+
+    - title: Less-50
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-50/index.php
+
+    - title: Less-51
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-51/index.php
+
+    - title: Less-52
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-52/index.php
+
+    - title: Less-53
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-53/index.php
+
+    - title: Less-54
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-54/index.php
+
+    - title: Less-55
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-55/index.php
+
+    - title: Less-56
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-56/index.php
+
+    - title: Less-57
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-57/index.php
+
+    - title: Less-58
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-58/index.php
+
+    - title: Less-59
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-59/index.php
+
+    - title: Less-60
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-60/index.php
+
+    - title: Less-61
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-61/index.php
+
+    - title: Less-62
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-62/index.php
+
+    - title: Less-63
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-63/index.php
+
+    - title: Less-64
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-64/index.php
+
+    - title: Less-65
+      logo: regex.jpg
+      url: http://localhost:80/sql/Less-65/index.php
